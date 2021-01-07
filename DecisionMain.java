@@ -40,9 +40,9 @@ public class DecisionMain {
         }
 
         if(testData.size() == a.getCounter()){
-            System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
-            System.out.println("@@@@@@@ EVERYTHING WORKS BABY @@@@@@@");
-            System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
+            System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
+            System.out.println("@@@@@@@@@ EVERYTHING WORKS @@@@@@@@@");
+            System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
         }
 
         System.out.println("Test Data Size: " +testData.size());
